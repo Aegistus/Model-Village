@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3487476321897282432}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Dock 01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42,6 +42,10 @@ PrefabInstance:
     - target: {fileID: 153242, guid: b38d75d6ed84adb448b0e83368a4d7c7, type: 3}
       propertyPath: m_Name
       value: SM_Bld_BoatHouse_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 153242, guid: b38d75d6ed84adb448b0e83368a4d7c7, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 418622, guid: b38d75d6ed84adb448b0e83368a4d7c7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -104,6 +108,10 @@ PrefabInstance:
     - target: {fileID: 159852, guid: 26b38ba9be28bf845a754b172e3d214f, type: 3}
       propertyPath: m_Name
       value: SM_Bld_BoatHouse_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 159852, guid: 26b38ba9be28bf845a754b172e3d214f, type: 3}
+      propertyPath: m_Layer
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 421826, guid: 26b38ba9be28bf845a754b172e3d214f, type: 3}
       propertyPath: m_LocalPosition.x
