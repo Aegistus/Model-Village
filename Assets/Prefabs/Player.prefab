@@ -477,7 +477,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   groundLayer:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 257
   lookDirection: {fileID: 4828917951431313739}
   agentModel: {fileID: 6801081108730475623}
   wallDetectorUpper: {fileID: 164734759}

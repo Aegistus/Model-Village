@@ -287,7 +287,7 @@ MonoBehaviour:
     name: SM_Env_TreeBirch_01
   - gameObject: {fileID: 152532, guid: c07acb8b44d91a440b365eeb6578f0d9, type: 3}
     settings:
-      m_Strength: 50
+      m_Strength: 87.598495
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
       m_RotationRangeMax: {x: 0, y: 0, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
@@ -367,7 +367,7 @@ MonoBehaviour:
     name: SM_Env_TreePine_02
   - gameObject: {fileID: 117190, guid: 6593f1a0b8ab64a47bc3038147d84d46, type: 3}
     settings:
-      m_Strength: 50
+      m_Strength: 55.799786
       m_RotationRangeMin: {x: 0, y: 0, z: 0}
       m_RotationRangeMax: {x: 0, y: 0, z: 0}
       m_ScaleRangeMin: {x: 1, y: 1, z: 1}
